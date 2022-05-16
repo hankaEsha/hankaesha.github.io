@@ -120,6 +120,7 @@ em {
 
 .menu-item {
   text-decoration: none;
+  text-transform: lowercase;
   font-size: 1.25rem;
   font-weight: 600;
   padding: 0.5rem 0;
